@@ -49,7 +49,7 @@ python axios_malware_scanner.py --quick
 **3. Custom Target Path**  
 Target the scanner specifically at a single server volume or project directory.
 ```bash
-python axios_malware_scanner.py --path C:\Users\MrFrost\Desktop\MyProject
+python axios_malware_scanner.py --path C:\Users\YourName\Desktop\MyProject
 ```
 
 ## ⚠️ Output & Remediation
