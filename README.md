@@ -5,6 +5,9 @@
 
 *Coded by MrFrost*
 
+## 📸 Overview
+![Scanner Screenshot](sc.png)
+
 A blazing-fast, multi-threaded incident response tool built specifically to detect and hunt the **March 2026 Supply Chain Attack** involving compromised versions of `axios` (v1.14.1, v0.30.4) and the malicious `plain-crypto-js` RAT dropper.
 
 ---
